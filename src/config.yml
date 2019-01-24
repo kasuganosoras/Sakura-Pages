@@ -1,0 +1,4 @@
+port: 8964
+pass: "12345678"
+root: "%PLUGINDIR%/WWW/"
+home: "index.html"

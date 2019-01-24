@@ -1,0 +1,11 @@
+name: SoraHTTP
+main: com.soramc.httpd.Main
+version: 1.0.0
+author: KasuganoSora
+
+commands:
+  httpd:
+    description: "§6§lSoraMC §b§lHTTP§c§l 管理命令"
+    usage: "§c§l[§6§lSoraMC §b§lHTTP§c§l] §aVer1.0 by §dKasuganoSora §c/ §a查看帮助请输入 §6/httpd §bhelp"
+    permission: "httpd.admin"
+    permission-message: "§c§l[§6§lSoraMC §b§lHTTP§c§l] §c您没有权限使用此命令，执行此命令需要权限 §ehttpd.admin"
